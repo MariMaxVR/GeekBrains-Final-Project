@@ -1,1 +1,2 @@
-# GeekBrains_Final_Project
+# GeekBrains. Факультет VR/AR (Метавселенные).
+##Итоговый, дипломный проект 
