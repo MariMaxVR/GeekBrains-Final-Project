@@ -1,7 +1,6 @@
 # GeekBrains. Факультет VR/AR (Метавселенные).
 ## Итоговый, дипломный проект 
 
-
 <!-- Пример хорошей структуры
 
 https://github.com/MorgunovaAO/Diploma_project/blob/main/MorgunovaA_group3189.md
