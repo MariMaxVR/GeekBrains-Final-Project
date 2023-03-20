@@ -1,4 +1,8 @@
+<!---
 ![ReadyPlayerOneImage](/images/ReadyPlayerOne.jpeg)
+-->
+![ReadyPlayerOneImage](https://www.denofgeek.com/wp-content/uploads/2020/11/webstory-rpt-movie-12.jpg)
+
 
 # GeekBrains. Факультет **VR/AR**. Технологическая специализация - **Метавселенные**.
 # Дипломный проект по теме: "Нейронные сети в современном мире, их значимость и реализация в игровых проектах на примере Unity."
@@ -43,6 +47,6 @@
 
 
 
-(!убрать)
+(!)
 Пример хорошей структуры:
 https://github.com/MorgunovaAO/Diploma_project/blob/main/MorgunovaA_group3189.md 
